@@ -1,4 +1,4 @@
-<!-- # Log File Analyzer CLI
+# Log File Analyzer CLI
 
 This is a command-line tool that parses Apache web server logs, stores structured data in MySQL, and generates analytical traffic reports.
 
@@ -139,4 +139,4 @@ This extracts:
 - config.ini: Database configuration
 - sql/create_tables.sql: SQL schema
 - sample_logs/: Example logs for testing
- -->
+
